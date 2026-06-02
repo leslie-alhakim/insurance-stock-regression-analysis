@@ -28,7 +28,7 @@ Methods included both:
 
 📌 The overall model was statistically significant.
 
-These findings suggest financial metrics can meaningfully predict stock price behavior in insurance companies. :contentReference[oaicite:1]{index=1}
+These findings suggest financial metrics can meaningfully predict stock price behavior in insurance companies.
 
 ## Tools Used
 
